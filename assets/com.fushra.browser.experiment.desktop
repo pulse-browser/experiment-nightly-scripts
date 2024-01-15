@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Pulse Experiment
+Comment=Bad idea, do not use
+Categories=Network;WebBrowser;
+
+Icon=com.fushra.browser.alpha
+Exec=experiment-browser
+Terminal=false
